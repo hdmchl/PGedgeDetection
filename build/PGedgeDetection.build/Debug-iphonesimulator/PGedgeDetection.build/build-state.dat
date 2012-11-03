@@ -1,0 +1,684 @@
+TPGedgeDetection
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Info.plist PGedgeDetection/PGedgeDetection-Info.plist
+cPhaseScriptExecution "Touch www folder" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh
+cCpResource www cordova/../build/PGedgeDetection.app/www
+cCopyPlistFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Cordova.plist PGedgeDetection/Resources/../Cordova.plist
+cCpResource PGedgeDetection/Resources/icons/icon-72.png cordova/../build/PGedgeDetection.app/icon-72.png
+cCpResource /Users/Hadi/Documents/CordovaLib/VERSION cordova/../build/PGedgeDetection.app/VERSION
+cCpResource PGedgeDetection/Resources/icons/icon.png cordova/../build/PGedgeDetection.app/icon.png
+cCpResource PGedgeDetection/Resources/Capture.bundle cordova/../build/PGedgeDetection.app/Capture.bundle
+cCpResource PGedgeDetection/Resources/icons/icon@2x.png cordova/../build/PGedgeDetection.app/icon@2x.png
+cCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/en.lproj/Localizable.strings PGedgeDetection/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/es.lproj/Localizable.strings PGedgeDetection/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib
+cCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/de.lproj/Localizable.strings PGedgeDetection/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/se.lproj/Localizable.strings PGedgeDetection/Resources/se.lproj/Localizable.strings
+cCpResource PGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png
+cCpResource PGedgeDetection/Resources/splash/Default-Landscape~ipad.png cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png
+cCpResource PGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png
+cCpResource PGedgeDetection/Resources/splash/Default-Portrait~ipad.png cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png
+cCpResource PGedgeDetection/Resources/splash/Default~iphone.png cordova/../build/PGedgeDetection.app/Default~iphone.png
+cCpResource PGedgeDetection/Resources/splash/Default@2x~iphone.png cordova/../build/PGedgeDetection.app/Default@2x~iphone.png
+cProcessPCH /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth PGedgeDetection/PGedgeDetection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection normal i386
+cGenerateDSYMFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection
+cTouch /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000509517630000000000000110
+t1351948131
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000505D1CBF00000000001EAFC0
+t1348279487
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000505D1CBF00000000000C0EF0
+t1348279487
+s790256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000505D1CBF0000000000193640
+t1348279487
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000505D1CBF00000000003D2B80
+t1348279487
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000505D1CBF0000000000215D60
+t1348279487
+s2186592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505D1CBF0000000000228FD0
+t1348279487
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000505D1CBF000000000009C220
+t1348279487
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000505D1CBF0000000000085620
+t1348279487
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505D1CC000000000003DCEF0
+t1348279488
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000505D1CC100000000002C6C10
+t1348279489
+s2911248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000505D1CC200000000000BCB50
+t1348279490
+s772944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000505D1CC200000000001D57A0
+t1348279490
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000505D1CC2000000000006CC50
+t1348279490
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505D1CC30000000000AB3D60
+t1348279491
+s11222368
+
+N/Users/Hadi/Documents/CordovaLib/VERSION
+c0000000050089EE90000000000000005
+t1342742249
+s5
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.h
+c000000005095393300000000000005CD
+t1351956787
+s1485
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m
+c00000000509539330000000000001347
+t1351956787
+s4935
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.h
+c00000000509539330000000000000416
+t1351956787
+s1046
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m
+c00000000509539330000000000001006
+t1351956787
+s4102
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib
+c00000000509539320000000000001759
+t1351956786
+s5977
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/PGedgeDetection-Prefix.pch
+c000000005095393300000000000003CF
+t1351956787
+s975
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/../Cordova.plist
+c0000000050953932000000000000094C
+t1351956786
+s2380
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/Capture.bundle
+c000000005095393200000000000002EC
+t1351956786
+s748
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/de.lproj/Localizable.strings
+c00000000509539320000000000000485
+t1351956786
+s1157
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/en.lproj/Localizable.strings
+c00000000509539320000000000000470
+t1351956786
+s1136
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/es.lproj/Localizable.strings
+c0000000050953932000000000000047D
+t1351956786
+s1149
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon-72.png
+c00000000509539320000000000001350
+t1351956786
+s4944
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon.png
+c00000000509539320000000000000F3E
+t1351956786
+s3902
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon@2x.png
+c00000000509539320000000000001EBD
+t1351956786
+s7869
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/se.lproj/Localizable.strings
+c00000000509539320000000000000471
+t1351956786
+s1137
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000509539320000000000176888
+t1351956786
+s1534088
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Landscape~ipad.png
+c000000005095393200000000000674B7
+t1351956786
+s423095
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005095393300000000001892C2
+t1351956787
+s1610434
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Portrait~ipad.png
+c00000000509539330000000000066F23
+t1351956787
+s421667
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default@2x~iphone.png
+c00000000509539330000000000055981
+t1351956787
+s350593
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default~iphone.png
+c00000000509539330000000000016EC9
+t1351956787
+s93897
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m
+c00000000509539330000000000000498
+t1351956787
+s1176
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/PGedgeDetection.LinkFileList
+c000000005095462000000000000001D7
+t1351960096
+s471
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh
+c00000000509546200000000000000027
+t1351960096
+s39
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/libCordova.a
+c00000000509546200000000000293448
+t1351960096
+s2700360
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Capture.bundle
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Cordova.plist
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default~iphone.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Info.plist
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/MainViewController.nib
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PkgInfo
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/VERSION
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon-72.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon@2x.png
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/www
+t2
+s0
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVCommandDelegate.h
+c00000000509546010000000000000455
+t1351960065
+s1109
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVCordovaView.h
+c00000000509546010000000000000357
+t1351960065
+s855
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVInvokedUrlCommand.h
+c000000005095460100000000000004CA
+t1351960065
+s1226
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVPlugin.h
+c000000005095460100000000000007E5
+t1351960065
+s2021
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVPluginResult.h
+c0000000050954601000000000000097E
+t1351960065
+s2430
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVURLProtocol.h
+c000000005095460100000000000004B1
+t1351960065
+s1201
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVViewController.h
+c00000000509546010000000000000996
+t1351960065
+s2454
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVWhitelist.h
+c000000005095460100000000000004B0
+t1351960065
+s1200
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/JSONKit.h
+c00000000509546010000000000002EA2
+t1351960065
+s11938
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005095460100000000000003A7
+t1351960065
+s935
+
+N/Users/Hadi/Documents/Developer/cv/PGedgeDetection/www
+c000000005095460200000000000001BA
+t1351960066
+s442
+
+N/var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth
+t2
+s0
+
+NPGedgeDetection/PGedgeDetection-Info.plist
+c000000005095393300000000000009D4
+t1351956787
+s2516
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies554f4aa07d45b641^48174ba07d45b641^---0#1#0#--18"Check dependencies36"2176C79A-EC43-4C33-9DA6-F43A83648489-
+
+CCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373652896.749022
+e373652896.808578
+r1
+xCompileC
+xbuild/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m:77:25: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o    self.viewController.invokeString = invokeString;
+o                        ^
+o/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVViewController.h:40:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy) NSString* invokeString __attribute__ ((deprecated));
+o                                                 ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m9dd8bfa07d45b641^a4fecea07d45b641^-551"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m:77:25: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]    self.viewController.invokeString = invokeString;                        ^/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVViewController.h:40:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy) NSString* invokeString __attribute__ ((deprecated));                                                 ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@28"'invokeString' is deprecated-373652896#18446744073709551615#0#1(2@28"'invokeString' declared here-373652896#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/Hadi/Documents/CordovaLib/Classes/CDVViewController.h0000000000000000^39#49#39#49#1551#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m0000000000000000^76#24#76#24#2555#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@104"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m0000000000000000^3871"CompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o PGedgeDetection/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.2 -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-generated-files.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-own-target-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-all-target-headers.hmap -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-project-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/usr/local/lib/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/UninstalledProducts/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources/i386 -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources -F/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -include /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch -MMD -MT dependencies -MF /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.dia -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/AppDelegate.m -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/AppDelegate.o36"79FB6151-4162-4E96-91AC-1A2053DDF416-
+
+CCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373652896.749028
+e373652896.801801
+r1
+xCompileC
+xbuild/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m:108:15: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o     if (self.invokeString)
+o              ^
+o/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVViewController.h:40:50: note: 'invokeString' declared here
+o@property (nonatomic, readwrite, copy) NSString* invokeString __attribute__ ((deprecated));
+o                                                 ^
+o/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m:112:93: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];
+o                                                                                            ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.mc5e2bfa07d45b641^b342cda07d45b641^-896"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m:108:15: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]     if (self.invokeString)              ^/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include/Cordova/CDVViewController.h:40:50: note: 'invokeString' declared here@property (nonatomic, readwrite, copy) NSString* invokeString __attribute__ ((deprecated));                                                 ^/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m:112:93: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];                                                                                            ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'invokeString' is deprecated-373652896#18446744073709551615#0#1(2@28"'invokeString' declared here-373652896#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/Hadi/Documents/CordovaLib/Classes/CDVViewController.h0000000000000000^39#49#39#49#1551#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m0000000000000000^107#14#107#14#2859#0#12"Deprecations--2@28"'invokeString' is deprecated-373652896#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@111"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m0000000000000000^111#92#111#92#3269#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@111"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m0000000000000000^3913"CompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o PGedgeDetection/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.2 -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-generated-files.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-own-target-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-all-target-headers.hmap -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-project-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/usr/local/lib/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/UninstalledProducts/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources/i386 -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources -F/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -include /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch -MMD -MT dependencies -MF /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.dia -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.m -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/MainViewController.o36"1D2E31AB-0049-46AA-87EC-C7A0F33B547F-
+
+CCompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373652896.749020
+e373652896.768206
+r1
+xCompileC
+xbuild/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m7bd8bfa07d45b641^8fa8c4a07d45b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m0000000000000000^3813"CompileC build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o PGedgeDetection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.2 -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-generated-files.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-own-target-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-all-target-headers.hmap -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-project-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/usr/local/lib/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/UninstalledProducts/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources/i386 -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources -F/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -include /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch -MMD -MT dependencies -MF /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.dia -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/main.m -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/main.o36"9322450A-BDD4-44BA-B10D-1BF44504E074-
+
+CCompileXIB /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib
+s373652896.338571
+e373652896.521842
+r1
+xCompileXIB
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib19c556a07d45b641^f69785a07d45b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib0000000000000000^992"CompileXIB PGedgeDetection/Classes/MainViewController.xib    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/MainViewController.nib /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"376C6D75-2D51-440C-9C9D-B6C9BABB2DCD-
+
+CCopyPlistFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Cordova.plist PGedgeDetection/Resources/../Cordova.plist
+s373652896.331421
+e373652896.354843
+r1
+xCopyPlistFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Cordova.plist
+xPGedgeDetection/Resources/../Cordova.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy PGedgeDetection/Resources/../Cordova.plist2cf554a07d45b641^90d85aa07d45b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/../Cordova.plist0000000000000000^572"CopyPlistFile cordova/../build/PGedgeDetection.app/Cordova.plist PGedgeDetection/Resources/../Cordova.plist    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyPlist --convert binary1 --outdir /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app -- PGedgeDetection/Resources/../Cordova.plist36"C13CB124-836F-4C72-911A-F60D35E5E337-
+
+CCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/de.lproj/Localizable.strings PGedgeDetection/Resources/de.lproj/Localizable.strings
+s373652896.339652
+e373652896.443059
+r1
+xCopyStringsFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/de.lproj/Localizable.strings
+xPGedgeDetection/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy PGedgeDetection/Resources/de.lproj/Localizable.stringsab0857a07d45b641^e86c71a07d45b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/de.lproj/Localizable.strings0000000000000000^663"CopyStringsFile cordova/../build/PGedgeDetection.app/de.lproj/Localizable.strings PGedgeDetection/Resources/de.lproj/Localizable.strings    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/de.lproj -- PGedgeDetection/Resources/de.lproj/Localizable.strings36"FFB2527A-6218-46F2-B6D6-F6F7D10624E2-
+
+CCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/en.lproj/Localizable.strings PGedgeDetection/Resources/en.lproj/Localizable.strings
+s373652896.331832
+e373652896.363000
+r1
+xCopyStringsFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/en.lproj/Localizable.strings
+xPGedgeDetection/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy PGedgeDetection/Resources/en.lproj/Localizable.stringsfb0355a07d45b641^e5ed5ca07d45b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/en.lproj/Localizable.strings0000000000000000^663"CopyStringsFile cordova/../build/PGedgeDetection.app/en.lproj/Localizable.strings PGedgeDetection/Resources/en.lproj/Localizable.strings    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/en.lproj -- PGedgeDetection/Resources/en.lproj/Localizable.strings36"4EEA6B82-3F21-4213-B6CC-F08AD1DA6270-
+
+CCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/es.lproj/Localizable.strings PGedgeDetection/Resources/es.lproj/Localizable.strings
+s373652896.337421
+e373652896.400460
+r1
+xCopyStringsFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/es.lproj/Localizable.strings
+xPGedgeDetection/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy PGedgeDetection/Resources/es.lproj/Localizable.stringsdd7956a07d45b641^a58666a07d45b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/es.lproj/Localizable.strings0000000000000000^663"CopyStringsFile cordova/../build/PGedgeDetection.app/es.lproj/Localizable.strings PGedgeDetection/Resources/es.lproj/Localizable.strings    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/es.lproj -- PGedgeDetection/Resources/es.lproj/Localizable.strings36"341EA0A9-92F6-4477-A415-BA52615CA743-
+
+CCopyStringsFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/se.lproj/Localizable.strings PGedgeDetection/Resources/se.lproj/Localizable.strings
+s373652896.339663
+e373652896.438590
+r1
+xCopyStringsFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/se.lproj/Localizable.strings
+xPGedgeDetection/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy PGedgeDetection/Resources/se.lproj/Localizable.stringsee0857a07d45b641^804770a07d45b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/se.lproj/Localizable.strings0000000000000000^663"CopyStringsFile cordova/../build/PGedgeDetection.app/se.lproj/Localizable.strings PGedgeDetection/Resources/se.lproj/Localizable.strings    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/se.lproj -- PGedgeDetection/Resources/se.lproj/Localizable.strings36"9AFBE979-16F9-494E-84C8-9A2070C9B64E-
+
+CCpResource /Users/Hadi/Documents/CordovaLib/VERSION cordova/../build/PGedgeDetection.app/VERSION
+s373652896.331453
+e373652896.340478
+r1
+xCpResource
+x/Users/Hadi/Documents/CordovaLib/VERSION
+xcordova/../build/PGedgeDetection.app/VERSION
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy cordova/../build/PGedgeDetection.app/VERSION17f254a07d45b641^282a57a07d45b641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/VERSION000000000080d041^619"CpResource /Users/Hadi/Documents/CordovaLib/VERSION cordova/../build/PGedgeDetection.app/VERSION    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Hadi/Documents/CordovaLib/VERSION /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"3A1E5314-E4AB-4BF8-BE19-151A862638A3-
+
+CCpResource PGedgeDetection/Resources/Capture.bundle cordova/../build/PGedgeDetection.app/Capture.bundle
+s373652896.331467
+e373652896.339082
+r1
+xCpResource
+xPGedgeDetection/Resources/Capture.bundle
+xcordova/../build/PGedgeDetection.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy cordova/../build/PGedgeDetection.app/Capture.bundle46ef54a07d45b641^57ce56a07d45b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Capture.bundle000000000080d041^677"CpResource PGedgeDetection/Resources/Capture.bundle cordova/../build/PGedgeDetection.app/Capture.bundle    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/Capture.bundle /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"89724562-EFC6-4798-970C-FDCBBF97C1DD-
+
+CCpResource PGedgeDetection/Resources/icons/icon-72.png cordova/../build/PGedgeDetection.app/icon-72.png
+s373652896.331423
+e373652896.336178
+r1
+xCpResource
+xPGedgeDetection/Resources/icons/icon-72.png
+xcordova/../build/PGedgeDetection.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy cordova/../build/PGedgeDetection.app/icon-72.pngb7f054a07d45b641^e40f56a07d45b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon-72.png000000000080d041^680"CpResource PGedgeDetection/Resources/icons/icon-72.png cordova/../build/PGedgeDetection.app/icon-72.png    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon-72.png /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"A61E9C2D-4621-4615-87AE-A77ACA25E8A9-
+
+CCpResource PGedgeDetection/Resources/icons/icon.png cordova/../build/PGedgeDetection.app/icon.png
+s373652896.331457
+e373652896.337333
+r1
+xCpResource
+xPGedgeDetection/Resources/icons/icon.png
+xcordova/../build/PGedgeDetection.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy cordova/../build/PGedgeDetection.app/icon.pnga2f154a07d45b641^a75b56a07d45b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon.png000000000080d041^671"CpResource PGedgeDetection/Resources/icons/icon.png cordova/../build/PGedgeDetection.app/icon.png    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon.png /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"E5F02073-D701-4D05-8CFD-BCA239923BCC-
+
+CCpResource PGedgeDetection/Resources/icons/icon@2x.png cordova/../build/PGedgeDetection.app/icon@2x.png
+s373652896.331475
+e373652896.338468
+r1
+xCpResource
+xPGedgeDetection/Resources/icons/icon@2x.png
+xcordova/../build/PGedgeDetection.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy cordova/../build/PGedgeDetection.app/icon@2x.png13f354a07d45b641^8fa656a07d45b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/icon@2x.png000000000080d041^686"CpResource "PGedgeDetection/Resources/icons/icon@2x.png" "cordova/../build/PGedgeDetection.app/icon@2x.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/icons/icon@2x.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"B245E19B-BED4-46BF-BB27-E3A60DC1DE41-
+
+CCpResource PGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png
+s373652896.341617
+e373652896.349155
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png
+xcordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png6b8357a07d45b641^526459a07d45b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png000000000080d041^742"CpResource "PGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png" "cordova/../build/PGedgeDetection.app/Default-Landscape@2x~ipad.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Landscape@2x~ipad.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"E7F955C0-EBCA-4F6A-8FC1-263087299490-
+
+CCpResource PGedgeDetection/Resources/splash/Default-Landscape~ipad.png cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png
+s373652896.347768
+e373652896.350066
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default-Landscape~ipad.png
+xcordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png861e59a07d45b641^419e59a07d45b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png000000000080d041^733"CpResource "PGedgeDetection/Resources/splash/Default-Landscape~ipad.png" "cordova/../build/PGedgeDetection.app/Default-Landscape~ipad.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Landscape~ipad.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"F06E8C5F-0520-46DD-8510-3011C7D8C2AD-
+
+CCpResource PGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png
+s373652896.350318
+e373652896.353411
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png
+xcordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.pnge4be59a07d45b641^25795aa07d45b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png000000000080d041^739"CpResource "PGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png" "cordova/../build/PGedgeDetection.app/Default-Portrait@2x~ipad.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Portrait@2x~ipad.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"7DDF1729-E2FE-42D8-ABDD-7D89C66E6E72-
+
+CCpResource PGedgeDetection/Resources/splash/Default-Portrait~ipad.png cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png
+s373652896.350327
+e373652896.353808
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default-Portrait~ipad.png
+xcordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png65c459a07d45b641^af935aa07d45b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png000000000080d041^730"CpResource "PGedgeDetection/Resources/splash/Default-Portrait~ipad.png" "cordova/../build/PGedgeDetection.app/Default-Portrait~ipad.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default-Portrait~ipad.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"1E75C673-AC96-4BB9-BD5A-2B093F827747-
+
+CCpResource PGedgeDetection/Resources/splash/Default@2x~iphone.png cordova/../build/PGedgeDetection.app/Default@2x~iphone.png
+s373652896.354618
+e373652896.356705
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default@2x~iphone.png
+xcordova/../build/PGedgeDetection.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy cordova/../build/PGedgeDetection.app/Default@2x~iphone.png3cdc5aa07d45b641^59515ba07d45b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default@2x~iphone.png000000000080d041^718"CpResource "PGedgeDetection/Resources/splash/Default@2x~iphone.png" "cordova/../build/PGedgeDetection.app/Default@2x~iphone.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default@2x~iphone.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"4F33EC28-B389-4B8C-9543-9509485E7C95-
+
+CCpResource PGedgeDetection/Resources/splash/Default~iphone.png cordova/../build/PGedgeDetection.app/Default~iphone.png
+s373652896.354609
+e373652896.357572
+r1
+xCpResource
+xPGedgeDetection/Resources/splash/Default~iphone.png
+xcordova/../build/PGedgeDetection.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy cordova/../build/PGedgeDetection.app/Default~iphone.png16dd5aa07d45b641^4c8a5ba07d45b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Default~iphone.png000000000080d041^709"CpResource "PGedgeDetection/Resources/splash/Default~iphone.png" "cordova/../build/PGedgeDetection.app/Default~iphone.png"    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/Resources/splash/Default~iphone.png" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"CE1542C8-22ED-492E-8901-B86C5291CEE5-
+
+CCpResource www cordova/../build/PGedgeDetection.app/www
+s373652896.331416
+e373652896.346590
+r1
+xCpResource
+xwww
+xcordova/../build/PGedgeDetection.app/www
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy cordova/../build/PGedgeDetection.app/wwwf2ee54a07d45b641^e0bc58a07d45b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/www000000000080d041^592"CpResource www cordova/../build/PGedgeDetection.app/www    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Hadi/Documents/Developer/cv/PGedgeDetection/www /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"B4362F33-6F56-4DDF-B84B-0D0BD446A06D-
+
+CGenerateDSYMFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection
+s373652896.908389
+e373652897.021373
+r1
+xGenerateDSYMFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Generating /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYMe59ce8a07d45b641^187905a17d45b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM000000000080d041^693"GenerateDSYMFile cordova/../build/PGedgeDetection.app.dSYM cordova/../build/PGedgeDetection.app/PGedgeDetection    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app.dSYM36"EECED4B2-36D7-4085-A0E0-0678D6EEB244-
+
+CLd /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection normal i386
+s373652896.815337
+e373652896.901829
+r1
+xLd
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection5fced0a07d45b641^98dee6a07d45b641^---0#0#0#--1728"Ld cordova/../build/PGedgeDetection.app/PGedgeDetection normal i386    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -F/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -filelist /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/PGedgeDetection.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.2 /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PGedgeDetection36"CF4D0316-6B24-4D6B-8995-A7BDEB7EEA04-
+
+CPhaseScriptExecution "Touch www folder" /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh
+s373652896.308809
+e373652896.323492
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'32904fa07d45b641^96cf52a07d45b641^---0#0#0#--21109"PhaseScriptExecution "Touch www folder" build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Hadi    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build    setenv BUILD_ROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build    setenv CACHE_ROOT /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build    setenv CONFIGURATION_TEMP_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH PGedgeDetection.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/Hadi/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH PGedgeDetection.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/PGedgeDetection.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME PGedgeDetection.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH PGedgeDetection.app/Executables    setenv EXECUTABLE_FOLDER_PATH PGedgeDetection.app    setenv EXECUTABLE_NAME PGedgeDetection    setenv EXECUTABLE_PATH PGedgeDetection.app/PGedgeDetection    setenv FILE_LIST /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH PGedgeDetection.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME PGedgeDetection.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER PGedgeDetection/PGedgeDetection-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include\" \"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/usr/local/lib/include\" \"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/UninstalledProducts/include\" \"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE PGedgeDetection/PGedgeDetection-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH PGedgeDetection.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH PGedgeDetection.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/PGedgeDetection.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Hadi    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/PGedgeDetection.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH PGedgeDetection.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal/i386/PGedgeDetection.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH PGedgeDetection.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Objects-normal    setenv OBJROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH PGedgeDetection.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PkgInfo    setenv PKGINFO_PATH PGedgeDetection.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10A403    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH PGedgeDetection.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH PGedgeDetection.app/PrivateHeaders    setenv PRODUCT_NAME PGedgeDetection    setenv PRODUCT_SETTINGS_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/PGedgeDetection-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT PGedgeDetection    setenv PROJECT_DERIVED_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/DerivedSources    setenv PROJECT_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PROJECT_FILE_PATH /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection.xcodeproj    setenv PROJECT_NAME PGedgeDetection    setenv PROJECT_TEMP_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build    setenv PUBLIC_HEADERS_FOLDER_PATH PGedgeDetection.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH PGedgeDetection.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH PGedgeDetection.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH PGedgeDetection.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv SRCROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME PGedgeDetection    setenv TARGET_BUILD_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build    setenv TARGET_NAME PGedgeDetection    setenv TARGET_TEMP_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build    setenv TEMP_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build    setenv TEMP_FILES_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build    setenv TEMP_FILE_DIR /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build    setenv TEMP_ROOT /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH PGedgeDetection.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Hadi    setenv USER_APPS_DIR /Users/Hadi/Applications    setenv USER_LIBRARY_DIR /Users/Hadi/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH PGedgeDetection.app/version.plist    setenv VERSION_INFO_BUILDER Hadi    setenv VERSION_INFO_FILE PGedgeDetection_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:PGedgeDetection  PROJECT:PGedgeDetection-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME PGedgeDetection.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4G2008a    setenv XCODE_VERSION_ACTUAL 0452    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0450    setenv YACC yacc    /bin/sh -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/Script-304B58A110DAC018002A0835.sh36"EE21DCD6-7A17-4B16-BC3F-F9B38A28D520-
+
+CProcessInfoPlistFile /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Info.plist PGedgeDetection/PGedgeDetection-Info.plist
+s373652896.297990
+e373652896.300806
+r1
+xProcessInfoPlistFile
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Info.plist
+xPGedgeDetection/PGedgeDetection-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process PGedgeDetection/PGedgeDetection-Info.plistc9594ca07d45b641^b8034da07d45b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/PGedgeDetection-Info.plist0000000000000000^737"ProcessInfoPlistFile cordova/../build/PGedgeDetection.app/Info.plist PGedgeDetection/PGedgeDetection-Info.plist    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility PGedgeDetection/PGedgeDetection-Info.plist -genpkginfo /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app/Info.plist36"093A53A4-AA7A-4473-9A48-145D8958B199-
+
+CProcessPCH /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth PGedgeDetection/PGedgeDetection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s373652896.529837
+e373652896.742202
+r1
+xProcessPCH
+x/var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth
+xPGedgeDetection/PGedgeDetection-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile PGedgeDetection/PGedgeDetection-Prefix.pch2cbc87a07d45b641^b000bea07d45b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/PGedgeDetection-Prefix.pch0000000000000000^3835"ProcessPCH /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth PGedgeDetection/PGedgeDetection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.2 -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-generated-files.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-own-target-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-all-target-headers.hmap -iquote /Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/PGedgeDetection-project-headers.hmap -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/usr/local/lib/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/UninstalledProducts/include -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources/i386 -I/Users/Hadi/Documents/Developer/cv/PGedgeDetection/build/PGedgeDetection.build/Debug-iphonesimulator/PGedgeDetection.build/DerivedSources -F/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build --serialize-diagnostics /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.dia -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/PGedgeDetection/PGedgeDetection-Prefix.pch -o /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ty/98d44dvn7cn4kjvtfvjpkny40000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/PGedgeDetection-Prefix-gbiccvpqzmrzgkhbjbfccrdhamuh/PGedgeDetection-Prefix.pch.d36"0D51854B-A932-41D5-9828-9F8439A47EB1-
+
+CTouch /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app
+s373652897.029100
+e373652897.033959
+r1
+xTouch
+x/Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app6f8207a17d45b641^70b308a17d45b641^---0#0#0#--434"Touch cordova/../build/PGedgeDetection.app    cd /Users/Hadi/Documents/Developer/cv/PGedgeDetection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /usr/bin/touch -c /Users/Hadi/Documents/Developer/cv/PGedgeDetection/cordova/../build/PGedgeDetection.app36"D252289C-3902-4B52-8E2F-867434427AE4-
+
